@@ -12,11 +12,7 @@ $ give me super-powers
  Super-powers are granted randomly so please submit an issue if you're not happy with yours.
 {% endhint %}
 
-Once you're strong enough, save the world:[Dell](dell/#restore-the-system-of-windows-for-e7440)
-
-\[link text\] \(\#Getting-Super-powers\)
-
-
+Once you're strong enough, save the world:
 
 {% code title="hello.sh" %}
 ```bash
