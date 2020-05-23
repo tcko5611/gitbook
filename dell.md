@@ -1,12 +1,5 @@
 # Dell
 
-## Table of contents
-
-1. [Restore system](dell.md#restore-the-system-of-windows-for-e7440)
-2. [Close top and work](dell.md#while-close-the-top-still-have-screen-to-work)
-3. [Add wi-fi printer](dell.md#add-wi-fi-printer)
-4. Restore the system of windows for E7440
-
 ## Restore the system of windows for E7440
 
 1. goto dell web and save the windows to usb 🦸♀
