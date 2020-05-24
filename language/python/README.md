@@ -77,6 +77,7 @@
 ### Input
 
 * read from command line
+
   * use sys.argv
 
     ```text
@@ -88,14 +89,15 @@
 
   * use argparse module
 
-    ```text
-    import argparse
-    parser = argparse.ArgumentParser(description='import file')
-    parser.add_argument('-file', metavar='datafile', type=str, required=True,
-                        help='plot data file')
-    args = parser.parse_args()
-    print(args.file)
-    ```
+  ```text
+  import argparse
+  parser = argparse.ArgumentParser(description='import file')
+  parser.add_argument('-file', metavar='datafile', type=str, required=True,
+                      help='plot data file')
+  args = parser.parse_args()
+  print(args.file)
+  ```
+
 * read from stdin
 
   ```text
