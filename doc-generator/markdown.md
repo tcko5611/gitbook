@@ -11,11 +11,11 @@
 ### line feed
 
 The document will see the space, if you want to force linefeed,  
-please add two space on the end of the line. you can add in Markdown file with `<br>` or you can add two space in the end of line.
+please add **two space** on the end of the line. you can add in Markdown file with `<br>` or you can add two space in the end of line.
 
 ### enhance
 
-_enhance_ or _enhance_, **more enahnce** or **more enhance**
+_enhance_ or _enhance_, **more enhance** or **more enhance**
 
 ```text
 *enhance* or  _enhance_

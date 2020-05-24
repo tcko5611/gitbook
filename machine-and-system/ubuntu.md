@@ -3,13 +3,13 @@
 ## update package
 
 ```text
-sudo apt-get update
+sudo apt update
 ```
 
 ## upgrade system
 
 ```text
-sudo apt-get upgrade
+sudo apt upgrade
 ```
 
 ## install package
@@ -21,6 +21,6 @@ sudo apt install emacs25
 ## search package
 
 ```text
-apt-cache search gcc
+apt search gcc
 ```
 
